@@ -1,2 +1,3 @@
 default-jdk
 default-jre
+apt-get install python3-distutils
