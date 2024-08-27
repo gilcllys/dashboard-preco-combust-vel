@@ -30,6 +30,6 @@
        ```
     3. **Executar o dashboard interativo**:
        ```bash
-       streamlit run nome_do_arquivo.py
+       streamlit run dashboard.py
        ```
     4. **Acessar o dashboard** via navegador, usando o link que será gerado após a execução do comando.
