@@ -8,3 +8,28 @@
 
 ## Entregáveis
 - **Desenvolver e disponibilizar um dashboard interativo** até o final do semestre, que permita a visualização dos insights extraídos das análises, auxiliando a comunidade local de Manaus em suas tomadas de decisões financeiras.
+
+## Ambiente Virtual
+- **Criar um ambiente virtual** para gerenciar as dependências do projeto. As seguintes bibliotecas deverão ser instaladas no ambiente:
+    - `pandas`
+    - `pyspark`
+    - `streamlit`
+    - `matplotlib`
+    - `seaborn`
+
+## Execução do Projeto
+- Para executar o projeto, siga os seguintes passos:
+    1. **Criar e ativar o ambiente virtual**:
+       ```bash
+       python -m venv venv
+       source venv/bin/activate  # No Windows use: venv\Scripts\activate
+       ```
+    2. **Instalar as dependências**:
+       ```bash
+       pip install pandas pyspark streamlit matplotlib seaborn
+       ```
+    3. **Executar o dashboard interativo**:
+       ```bash
+       streamlit run nome_do_arquivo.py
+       ```
+    4. **Acessar o dashboard** via navegador, usando o link que será gerado após a execução do comando.
