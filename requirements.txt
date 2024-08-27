@@ -1,4 +1,3 @@
-default-jdk
 pandas
 pyspark
 streamlit
