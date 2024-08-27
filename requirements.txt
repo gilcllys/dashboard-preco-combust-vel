@@ -1,4 +1,5 @@
 findspark==2.0.1
+setuptools
 numpy==2.0.1
 pandas==2.2.2
 plotly==5.13.0
