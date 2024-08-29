@@ -6,7 +6,7 @@ import seaborn as sns
 
 data = Precos()
 
-st.title('Preços de gasolina em Manaus')
+st.title('Preços de combustíveis em Manaus')
 st.write('## Preços por bairro e produto')
 opcao_bairro = st.selectbox('Escolha um bairro:', data.get_unique_bairros)
 opcao_produto = st.selectbox(
