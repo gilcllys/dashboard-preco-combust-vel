@@ -33,3 +33,9 @@
        streamlit run dashboard.py
        ```
     4. **Acessar o dashboard** via navegador, usando o link que será gerado após a execução do comando.
+   
+    5. **Acessar o dashboard via streamlit Cloud** via navegador.
+      ```bash
+       https://monitorado-precos-gasolina-manaus.streamlit.app/
+       ```
+
